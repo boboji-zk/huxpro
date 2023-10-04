@@ -15,7 +15,7 @@
 
 2. Installed dependencies in the `Gemfile`:
 
-```sh
+```sh1
 $ bundle install 
 ```
 
